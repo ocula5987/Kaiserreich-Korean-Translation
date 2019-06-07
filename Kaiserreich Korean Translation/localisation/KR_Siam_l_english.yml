@@ -115,11 +115,11 @@ SIA_electrified_2:0 "농촌에 전기공급"
 SIA_electrified_2_desc:0 "현재 대부분의 시골지역은 전력망에 연결되어 있으며, 전력 부족은 과거의 일이 되고 있다."
 
 ### Faction SEATO ###
-SIA_SEATO_alliance:0 "새"
+SIA_SEATO_alliance:0 "새토"
 
 ### Custom Tech ###
 asymmetrical_warfare:0 "비대칭전력 훈련"
-SIA_asymmetrical_warfare_effect:0 "Enables §HAsymmetrical Warfare Trainng§!\n§HAll legged units\n    Urban§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+SIA_asymmetrical_warfare_effect:0 "가능하게함  §H비대칭전력 훈련!\n§H모든 보병 부대\n    도시§!\n      공격: §G+10%§!\n      방어: §G+5%§!\n      기동: §G+5%§!\n\n"
 #jungle_warfare:0 "정글전 훈련" already defined in research loc file
 SIA_jungle_warfare_effect:0 "Enables §HJungle Combat Training§!\n§HAll legged units\n    Jungle§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
 
