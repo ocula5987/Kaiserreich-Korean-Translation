@@ -199,9 +199,9 @@ SIA_national_populist_party:0 "자유 타이당"
 SIA_national_populist_party_long:0 "자유 타이당"
 
 ### Opinion Modifiers ###
-SIA_seize_singapore:0 "Illegitimate annexation of Singapore"
-SIA_no_seize_singapore:0 "Ignored our Singapore colonies"
-SIA_IndNat_bastard:0 "공장 확보!"
+SIA_seize_singapore:0 "싱가포르 불법 점거"
+SIA_no_seize_singapore:0 "싱가포르 식민지 무시"
+SIA_IndNat_bastard:0 "공장 점거!"
 
 ### Events ###
 siam.0.t:0 "Hidden Header" # I know that they're Indian events but their loc are "who knows where" and why are they included in the Siamese event file in the first place?
@@ -235,21 +235,21 @@ siam.8.d:0 "3년간의 고된 노력 끝에, 골치 아픈 반체제 인사들�
 siam.8.a:0 "훌륭해!"
 
 siam.9.t:0 "말라야의 운명"
-siam.9.d:0 "Due to the proclamation of our new empire violent riots have erupted in major cities across Malaya. Many of the native Malayans, alongside prominent nobles and imams, protest at the idea of being under the rule of a Thai sovereign. While the military has demanded the imposition of martial law and the complete integration of Malaya into the Empire many of our more moderate politicians have proposed granting limited autonomy to the Malayans, to help appease their leaders and quell the protests."
+siam.9.d:0 "우리의 새로운 제국의 선언으로, 말라야 전역에서 폭동이 일어났다. 많은 말라야인들은 주요 귀족들, 이맘과 함께 제국의 지배를 받는다는 것에 항의했다. 군부는 계엄령을 선포하고 말라야를 제국에 완전히 합병할 것을 요구했으며, 온건파 인사들은 그들의 지도자를 달래고 폭동을 진압하기 위해 말라야에 제한적인 자치권을 부여할 것을 제안했다."
 siam.9.a:0 "말라야를 통합하라."
 siam.9.b:0 "자주적인 말라야를 해방시켜라."
 
 siam.10.t:0 "말라야의 통합"
-siam.10.d:0 "After three arduous years of hard work; repression of troublesome dissidents; and multiple covert propaganda campaigns; we have finally managed to complete the integration process of Malaya!"
+siam.10.d:0 "3년간의 고된 노력 끝에, 골치 아픈 반체제 인사들의 탄압과 은밀한 선전활동을 통해, 우리는 마침내 말라야의 통합을 완수할 수 있었다."
 siam.10.a:0 "훌륭해!"
 
 siam.11.t:0 "베트남의 운명"
-siam.11.d:0 "Due to the proclamation of our new empire violent riots have erupted in major cities across Vietnam. Having only recently shed the yoke of Germany colonialism many Vietnamese resent the idea of being under the rule of a Thai sovereign. While the military has demanded the imposition of martial law and the complete integration of Vietnam into the Empire many of our more moderate politicians have proposed granting limited autonomy to the Vietnamese, to help appease their leaders and quell the protests."
+siam.11.d:0 "우리의 새로운 제국의 선언으로, 베트남 전역에서 폭동이 일어났다. 최근에서야 독일 식민주의의 멍에를 벗은 많은 베트남인들은 태국의 지배 하에 있다는 것에 분개한다. 군부는 계엄령을 선포하고 베트남을 제국에 완전히 합병할 것을 요구했으며, 온건파 인사들은 그들의 지도자를 달래고 폭동을 진압하기 위해 베트남인들에게 제한적인 자치권을 부여할 것을 제안했다."
 siam.11.a:0 "베트남을 통합하라."
 siam.11.b:0 "자주적인 베트남을 해방시켜라."
 
 siam.12.t:0 "베트남의 통합"
-siam.12.d:0 "After three arduous years of hard work; repression of troublesome dissidents and multiple covert propaganda campaigns, we have finally managed to complete the integration process of Vietnam!"
+siam.12.d:0 "3년간의 고된 노력 끝에, 골치 아픈 반체제 인사들의 탄압과 은밀한 선전활동을 통해, 우리는 마침내 베트남의 통합을 완수할 수 있었다."
 siam.12.a:0 "훌륭해!"
 
 ### Newly Reformed Siamese Events ###
