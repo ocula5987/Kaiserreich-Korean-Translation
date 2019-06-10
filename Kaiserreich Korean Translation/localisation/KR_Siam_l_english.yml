@@ -201,19 +201,19 @@ SIA_national_populist_party_long:0 "자유 타이당"
 ### Opinion Modifiers ###
 SIA_seize_singapore:0 "Illegitimate annexation of Singapore"
 SIA_no_seize_singapore:0 "Ignored our Singapore colonies"
-SIA_IndNat_bastard:0 "Seized our factories!"
+SIA_IndNat_bastard:0 "공장 확보!"
 
 ### Events ###
 siam.0.t:0 "Hidden Header" # I know that they're Indian events but their loc are "who knows where" and why are they included in the Siamese event file in the first place?
 siam.0.d:0 "Hidden Loc"
 
 siam.2.t:0 "혼란에 빠진 독일 제국"
-siam.2.d:0 "With the German Empire now experiencing turmoil we have been presented with an opportunity to seize control of Singapore. As it stands there is very little they could do to stop us."
+siam.2.d:0 "독일 제국이 지금 혼란을 겪고 있는 가운데 우리는 싱가포르를 장악할 수 있는 기회를 얻었다. 현재 그들이 우리를 막기 위해 할 수 있는 일은 거의 없다."
 siam.2.a:0 "싱가폴을 장악하라!"
 siam.2.b:0 "안되겠는데..."
 
 siam.3.t:0 "[SIA.GetName]이/가 싱가폴을 장악하다!"
-siam.3.d:0 "With our once great empire now in shambles, the bastards in [SIA.GetName] have taken advantage by seizing control of Singapore. We could either let it slide or take a firm stance against this opportunism."
+siam.3.d:0 "우리의 제국이 혼란을 겪는 중, [SIA.GetName]에 있는 자들이 싱가포르의 지배권을 획득함으로써 유리한 고지를 점했다. 그냥 내버려두거나 이 기회주의자들에게 강경책을 취할 수 도 있다고 말했다."
 siam.3.a:0 "우리가 할 수 있는 건 없다."
 siam.3.b:0 "이는 곧 전쟁이다!"
 
@@ -226,12 +226,12 @@ siam.6.b:0 "시암 제국을 선포하라."
 siam.6.c:0 "제안을 철회한다, 제국주의자라면 진절머리가 나는군."
 
 siam.7.t:0 "버마의 운명"
-siam.7.d:0 "Due to the proclamation of our new empire violent riots have erupted in major cities across Burma. Many native Burmese, egged on by nationalist agitators and syndicalists, protestt at the idea of being under the rule of a Thai sovereign. While the military has demanded the imposition of martial law and the complete integration of Burma into the Empire many of our more moderate politicians have proposed granting limited autonomy to the Burmese, to help appease their leaders and quell the protests."
+siam.7.d:0 "우리의 새로운 제국의 선언으로, 버마 전역에서 폭동이 일어났다. 많은 버마인들은 민족주의 선동가들과 생디칼리즘 주의자들이 부추겨 제국의 지배를 받는다는 것에 항의했다. 군부는 계엄령을 선포하고 버마를 제국에 완전히 합병할 것을 요구했으며, 온건파 인사들은 그들의 지도자를 달래고 폭동을 진압하기 위해 버마에 제한적인 자치권을 부여할 것을 제안했다."
 siam.7.a:0 "버마를 통합하라."
 siam.7.b:0 "자주적인 버마를 해방시켜라."
 
 siam.8.t:0 "버마의 통합"
-siam.8.d:0 "After three arduous years of hard work; repression of troublesome dissidents and multiple covert propaganda campaigns; we have finally managed to complete the integration process of the Kingdom of Burma!"
+siam.8.d:0 "3년간의 고된 노력 끝에, 골치 아픈 반체제 인사들의 탄압과 은밀한 선전활동을 통해, 우리는 마침내 버마 왕국의 통합을 완수할 수 있었다."
 siam.8.a:0 "훌륭해!"
 
 siam.9.t:0 "말라야의 운명"
